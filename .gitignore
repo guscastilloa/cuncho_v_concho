@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,latex,gis
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,latex,gis
 
+## ignore manual stuff ##
+00_manual_stuff/
+
 ## Excel files ###
 *.xlsx
 
